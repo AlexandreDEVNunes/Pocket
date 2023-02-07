@@ -54,3 +54,4 @@ onEvent("saude","click", () => {
     setProperty("wallet", carteira);
     cleanValue(); 
 })
+
